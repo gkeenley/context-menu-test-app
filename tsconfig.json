@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "paths": {
+        "app/*": [
+          "../../../../zlux-app-manager/virtual-desktop/src/app/*"
+        ],
+      },
+    }
+  
+  }
+  
